@@ -28,6 +28,8 @@ url: "http://lukescomputersmitheryworkshop.com" # the base hostname & protocol f
 #twitter_username: jekyllrb
 github_username: lukescharf
 
+google_analytics: UA-154457085-1
+
 # Build settings
 theme: jekyll-theme-architect
 plugins:
