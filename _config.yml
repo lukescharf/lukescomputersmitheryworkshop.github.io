@@ -21,7 +21,7 @@
 title: "Luke's Computersmithery Workshop"
 email: "lukescharf@lukescomputersmitheryworkshop.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Luke's thchnical DIY blog, focused on the intersection of computing,
+  Luke's technical DIY blog, focused on the intersection of computing,
   electrical engineering, fabrication, and aviation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lukescomputersmitheryworkshop.com" # the base hostname & protocol for your site, e.g. http://example.com
